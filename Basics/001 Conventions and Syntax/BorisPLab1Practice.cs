@@ -1,6 +1,7 @@
 using System;
 
 
+  //prints out pancake values and does math with them
   public class PancakeProgram
   {
     public Pancake PaulCake;
@@ -20,6 +21,7 @@ using System;
      }
   }
 
+//creates pancake class and establishes main variables
   public class Pancake
   {
     public int centimeters = 32;
