@@ -25,7 +25,7 @@ using System;
   public class Pancake
   {
     public int centimeters = 32;
-      inches = 22;
+      centimeters = 22;
     public string cakeName = "Paul's Pancake";
     public float yumminess = 99.99f;
   }
