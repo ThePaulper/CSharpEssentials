@@ -10,7 +10,7 @@ using System;
     {
       PaulCake = new Pancake()  
       public int extra = 5;
-      int extra += 5
+      int extra += 5;
       PaulCake.centimeters++;
       public double total = pancakes + extra;
       public double pancakes = 37.5D;
